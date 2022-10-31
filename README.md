@@ -1,8 +1,8 @@
 
  
 
-# web gredient-colors
-There are many gredient colors in this repository
+# web gradient-colors
+There are many gradient colors in this repository
 
 
-These are the awesome gredient colors which makes the UI beautiful.
+These are the awesome gradient colors which makes the UI beautiful.
